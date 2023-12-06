@@ -7,7 +7,7 @@ This repository contains a web scraping project designed to extract information 
 ## Table of Contents
 
 - [World Radio](WorldRadio_data.ipynb): The web scrping of World Radio dataset 
-- [Mobile Phones](Laptops_data.ipynb): The web scraping code for the Mobile Phones dataset. 
+- [Mobile Phones](Mobile_data.ipynb): The web scraping code for the Mobile Phones dataset. 
 - [Laptops](Laptops_data.ipynb) : A Jupyter Notebook containing the web scraping code for the Laptops dataset
 
 
